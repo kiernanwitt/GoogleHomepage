@@ -14,3 +14,13 @@ Then:
 
 Search results page
 
+4/15/21
+
+Added: Google Logo
+search bar
+submit buttons
+Header
+Footer
+
+Next: Link header and footer items
+Icons for apps and account
